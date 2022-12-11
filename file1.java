@@ -3,5 +3,6 @@ public class MyFirstApp {
         System.out.println("Hello world!!!12345");
         System.out.println("Line from user2");
         System.out.println("Line from user1");
+        System.out.println("Line from user1 - lesson about rebase");
     }
 }
