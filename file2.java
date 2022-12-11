@@ -8,5 +8,6 @@ public class Car {
         c.color = "blue";
         System.out.println("Line from user2");
         System.out.println("Another line from user2");
+        System.out.println("Line from user2 - lesson about rebase");
     }
 }
